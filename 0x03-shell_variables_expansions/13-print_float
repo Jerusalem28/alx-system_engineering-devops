@@ -1,0 +1,2 @@
+#!/bin/bash
+prntf 'X.2f\n '$num
